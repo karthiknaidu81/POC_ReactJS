@@ -43,7 +43,7 @@
         <plugin>
             <groupId>sonar-maven-plugin</groupId>
             <artifactId>sonar-maven-plugin</artifactId>
-            <version>7.1</version>
+            <version>SonarQube Scanner 3.2.0.1227</version>
 		<scope>CodeAnalysis</scope>
         </plugin>
     </plugins>
