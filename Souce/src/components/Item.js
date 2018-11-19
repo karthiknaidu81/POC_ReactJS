@@ -50,7 +50,7 @@ class Item extends React.Component {
       quantity:qty
     }    
   })
-  if(res.data.auth=="fail"){
+  if(res.data.auth==="fail"){
     window.location="http://devopscloud.pythonanywhere.com/login/"
   }else{
     alert("Added to Cart")
