@@ -44,7 +44,7 @@
             <groupId>sonar-maven-plugin</groupId>
             <artifactId>sonar-maven-plugin</artifactId>
             <version>7.1</version>
-		<scope>CodeCoverage</scope>
+		<scope>CodeAnalysis</scope>
         </plugin>
     </plugins>
 </pluginManagement>
